@@ -75,12 +75,12 @@ data/
 
 Menu:
 
-List all menu items
-Find a menu item
-Add a menu item
-Remove a menu item
-Save menu items
-Quit
+1. List all menu items
+2. Find a menu item
+3. Add a menu item
+4. Remove a menu item
+5. Save menu items
+6. Quit
 
 ---
 
